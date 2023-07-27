@@ -1,0 +1,25 @@
+img{
+    margin: 0px auto;
+    display: block;
+    border-radius: 200px;
+    height: 150px;
+    width: 150px;
+}
+body{
+    background-color: white;
+}
+h1 {
+    text-align: center;
+    display: block;
+    font-family: Helvetica;
+}
+h2{
+    text-align: center;
+    display: block;
+}
+button{
+    border: none;
+    background-color: white;
+    margin: 0px auto;
+    display: block;
+}
