@@ -6,7 +6,12 @@ img{
     width: 150px;
 }
 body{
-    background-color: white;
+    background-image: url("../LinksTree/Fundo_site-ConversImagem.jpg");
+    background-position: center;
+    height: 150px;
+    width: 150px;
+    
+
 }
 h1 {
     text-align: center;
@@ -16,10 +21,5 @@ h1 {
 h2{
     text-align: center;
     display: block;
-}
-button{
-    border: none;
-    background-color: white;
-    margin: 0px auto;
-    display: block;
+    font-family: Helvetica;
 }
